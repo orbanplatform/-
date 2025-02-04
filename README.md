@@ -23,7 +23,7 @@
 5. [補助案通過後的執行與管理：核銷、結案注意事項](https://github.com/orbanplatform/orbanguide?tab=readme-ov-file#%E7%AC%AC%E4%B8%80%E7%AB%A0%E8%A3%9C%E5%8A%A9%E6%A1%88%E7%94%B3%E8%AB%8B%E5%85%A5%E9%96%80%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BC%81%E6%A5%AD%E9%9C%80%E8%A6%81%E6%94%BF%E5%BA%9C%E8%A3%9C%E5%8A%A9)
 6. [球球科技物聯網：如何協助企業達成減碳目標？](https://github.com/orbanplatform/orbanguide?tab=readme-ov-file#%E7%AC%AC%E4%B8%80%E7%AB%A0%E8%A3%9C%E5%8A%A9%E6%A1%88%E7%94%B3%E8%AB%8B%E5%85%A5%E9%96%80%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BC%81%E6%A5%AD%E9%9C%80%E8%A6%81%E6%94%BF%E5%BA%9C%E8%A3%9C%E5%8A%A9)
 7. [案例分享：成功申請補助與導入物聯網的企業](https://github.com/orbanplatform/orbanguide?tab=readme-ov-file#%E7%AC%AC%E4%B8%80%E7%AB%A0%E8%A3%9C%E5%8A%A9%E6%A1%88%E7%94%B3%E8%AB%8B%E5%85%A5%E9%96%80%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BC%81%E6%A5%AD%E9%9C%80%E8%A6%81%E6%94%BF%E5%BA%9C%E8%A3%9C%E5%8A%A9)
-8. [未來趨勢與展望：企業永續發展之路](https://github.com/orbanplatform/orbanguide?tab=readme-ov-file#%E7%AC%AC%E4%B8%80%E7%AB%A0%E8%A3%9C%E5%8A%A9%E6%A1%88%E7%94%B3%E8%AB%8B%E5%85%A5%E9%96%80%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BC%81%E6%A5%AD%E9%9C%80%E8%A6%81%E6%94%BF%E5%BA%9C%E8%A3%9C%E5%8A%A9))
+8. [未來趨勢與展望：企業永續發展之路](https://github.com/orbanplatform/orbanguide?tab=readme-ov-file#%E7%AC%AC%E4%B8%80%E7%AB%A0%E8%A3%9C%E5%8A%A9%E6%A1%88%E7%94%B3%E8%AB%8B%E5%85%A5%E9%96%80%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BC%81%E6%A5%AD%E9%9C%80%E8%A6%81%E6%94%BF%E5%BA%9C%E8%A3%9C%E5%8A%A9)
 
 ---
 
